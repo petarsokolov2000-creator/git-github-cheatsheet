@@ -1,6 +1,6 @@
 # Git & GitHub Cheatsheet
 
-A short, practical refrence for the Git and GitHub commands you'll use most often.
+A short, practical reference for the Git and GitHub commands you'll use most often.
 
 ## Basic Git Workflow
 
@@ -27,7 +27,7 @@ A short, practical refrence for the Git and GitHub commands you'll use most ofte
 | --- | --- |
 | `git log` | Show commit history |
 | `git diff` | Show unstaged changes |
-| `git diff --staged` | Show staged changes not yet commited |
+| `git diff --staged` | Show staged changes not yet committed |
 
 ## GitHub CLI (`gh`)
 
@@ -36,6 +36,7 @@ A short, practical refrence for the Git and GitHub commands you'll use most ofte
 | `gh auth login` | Authenticate the CLI with your GitHub account |
 | `gh repo create` | Create a new repository on GitHub |
 | `gh repo clone <owner>/<repo>` | Clone a repository locally |
+| `gh pr create` | Open a pull request from the current branch |
 
 ## Tips
 
